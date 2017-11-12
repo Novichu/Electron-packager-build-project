@@ -1,0 +1,1 @@
+已将内容为 hello,world 的 index.html 文件通过 Electron 框架打包为 windows 环境下的桌面应用。现只需将你的网页前端项目复制到 /resources/app/project 目录下，双击 exe 文件即可以桌面应用的方式运行你的网页。来自CSDN博主咖啡学编程，代码来源https://coding.net/u/linhongbijkm/p/Electron-packager-build-project/git
